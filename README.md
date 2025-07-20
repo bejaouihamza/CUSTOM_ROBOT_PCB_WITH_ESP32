@@ -1,6 +1,8 @@
 # CUSTOM_ROBOT_PCB_WITH_ESP32
 A custom-designed PCB for robotics applications, featuring the ESP32-C3-WROOM-2 microcontroller with WiFi & Bluetooth connectivity, motor control via the L298P H-bridge, efficient power management, and USB isolation for safe programming.
-<img src="https://github.com/bejaouihamza/CUSTOM_ROBOT_PCB_WITH_ESP32/blob/main/Capture%20d'%C3%A9cran%202025-07-20%20135718.png" width="500"/>
+
+
+<img src="https://github.com/bejaouihamza/CUSTOM_ROBOT_PCB_WITH_ESP32/blob/main/Capture%20d'%C3%A9cran%202025-07-20%20135718.png" width="800"/>
 
 
 Key Features
@@ -38,6 +40,7 @@ IoT-Enabled Robotics (Telemetry, remote control)
 Designed in KiCad (schematics & PCB layout included)
 
 Gerber files ready for manufacturing
+<img src="https://github.com/bejaouihamza/CUSTOM_ROBOT_PCB_WITH_ESP32/blob/main/Capture%20d'%C3%A9cran%202025-07-20%20135809.png" width="800"/>
 
 🔧 Getting Started
 Flash the ESP32-C3 via USB-C .
