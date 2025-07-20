@@ -1,0 +1,6 @@
+Fichier placement côté composant (dessus): 'C:\Users\bejao\Desktop\Desktop\pcb_suiveur\pcb_suiveur\pcb_suiveur-backups\pcb_suiveur-top-pos.csv'.
+Info: Nombre de composants: 56.
+Fichier placement côté soudure (dessous): 'C:\Users\bejao\Desktop\Desktop\pcb_suiveur\pcb_suiveur\pcb_suiveur-backups\pcb_suiveur-bottom-pos.csv'.
+Info: Nombre de composants: 0.
+Info: Nombre total de composants: 56.
+Info: Fini.

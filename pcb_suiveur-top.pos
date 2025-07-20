@@ -1,0 +1,62 @@
+### Footprint positions - created on 2025-07-12T11:20:31+0100 ###
+### Printed by KiCad version 9.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref        Val                   Package                                                            PosX       PosY       Rot  Side
+C1           330uf                 C_Elec_4x5.4                                                   128.2500  -119.1750   90.0000  top
+C2           0.1u                  C_0805_2012Metric                                              106.6350   -66.7250  -90.0000  top
+C3           0.1u                  C_0805_2012Metric                                              106.6350   -70.7250  -90.0000  top
+C4           470u                  C_Elec_4x5.4                                                   104.2500  -120.0000  -90.0000  top
+C6           0.1u                  C_0805_2012Metric                                              104.3250   -63.2750    0.0000  top
+C7           1u                    C_0805_2012Metric                                              123.8250   -67.7750  180.0000  top
+C8           0.1u                  C_0805_2012Metric                                              128.3000  -125.0000    0.0000  top
+C15          0.1u                  C_0805_2012Metric                                              105.5150   -37.6750  -90.0000  top
+C16          22u                   C_0805_2012Metric                                              103.0150   -37.6750  -90.0000  top
+C17          1u                    C_0805_2012Metric                                              111.3250   -74.7750    0.0000  top
+C18          10u                   C_0805_2012Metric                                              107.3750   -74.7750    0.0000  top
+C19          10u                   C_0805_2012Metric                                              103.8250   -41.2750    0.0000  top
+C20          0.1u                  C_0805_2012Metric                                              119.8250  -104.2750  180.0000  top
+C21          0.1u                  C_0805_2012Metric                                              102.5250  -105.4100  180.0000  top
+C22          0.1u                  C_0805_2012Metric                                              123.5250  -103.9100  180.0000  top
+C23          0.1u                  C_0805_2012Metric                                              106.0250   -84.4100  180.0000  top
+D1           1N5819                D_SMB                                                          103.3750   -89.4100   90.0000  top
+D2           1N5819                D_SMB                                                           97.3750   -89.4100   90.0000  top
+D3           1N5819                D_SMB                                                           97.3750   -97.4100   90.0000  top
+D4           1N5819                D_SMB                                                          103.3750   -97.4100   90.0000  top
+D5           1N5819                D_SMB                                                          135.0250   -97.5600   90.0000  top
+D6           1N5819                D_SMB                                                          135.0250   -89.5600   90.0000  top
+D7           1N5819                D_SMB                                                          129.0250   -97.5600   90.0000  top
+D8           1N5819                D_SMB                                                          129.0250   -89.5600   90.0000  top
+D9           LED                   LED_0805_2012Metric                                            133.7500  -120.5625   90.0000  top
+D12          SS34                  D_SMA                                                           99.2500  -125.5000   90.0000  top
+D14          1N5819                D_SMF                                                          104.4500  -113.8500  180.0000  top
+D15          1N5819                D_SMF                                                          104.4500  -110.5000  180.0000  top
+FB1          FerriteBead           L_0402_1005Metric                                              112.6350   -79.7250   90.0000  top
+J1           Conn_01x08_Socket     PinSocket_1x08_P1.27mm_Vertical_SMD_Pin1Right                  117.2700   -53.2750   90.0000  top
+J2           Screw_Terminal_01x02  TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal    95.0000   -70.5000  -90.0000  top
+J3           Screw_Terminal_01x02  TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal   135.0000   -73.0400   90.0000  top
+J4_battery3  Screw_Terminal_01x02  TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal   123.4600  -111.5400   90.0000  top
+L1           33u                   L_APV_ANR3010                                                  104.2500  -126.5000    0.0000  top
+P1           USB_C_Plug_USB2.0     TE_2340901-1                                                   115.8250  -141.8125    0.0000  top
+Q1           BC817                 SOT-23                                                         119.3875   -58.7250  180.0000  top
+Q2           BC817                 SOT-23                                                         109.8875   -59.7750    0.0000  top
+Q3           NPN                   SuperSOT-3                                                      99.0000  -119.5000    0.0000  top
+Q6           NMOS                  TO-252-2                                                       113.0250  -112.0650  -90.0000  top
+R8           10K                   R_0805_2012Metric                                              124.3250   -58.2750   90.0000  top
+R9           10K                   R_0805_2012Metric                                              114.8250   -59.2750    0.0000  top
+R10          10K                   R_0805_2012Metric                                              126.4125   -61.7750  180.0000  top
+R11          1                     R_0805_2012Metric                                              130.0250  -102.4100  180.0000  top
+R12          5.1K                  R_0805_2012Metric                                              114.6850   -78.6375   90.0000  top
+R13          5.1K                  R_0805_2012Metric                                              117.6350   -78.6375   90.0000  top
+R14          1                     R_0805_2012Metric                                              102.6125  -102.9100    0.0000  top
+R15          10K                   R_0805_2012Metric                                              133.7500  -124.5000   90.0000  top
+R21          10k                   R_0805_2012Metric                                               99.5000  -115.0000  -90.0000  top
+R22          4.7k                  R_0805_2012Metric                                               99.5000  -111.4125  -90.0000  top
+SW1          1101NE                SW_FSM8JH                                                      104.0750   -55.2750  -90.0000  top
+SW2          1101NE                SW_FSM8JH                                                      129.8250   -54.7750   90.0000  top
+U1           ESP32-C3-WROOM-02     ESP32-C3-WROOM-02                                              117.2650   -42.1750    0.0000  top
+U2           L298P                 SOIC127P1420X360-20N                                           116.3250   -93.7750    0.0000  top
+U3           USBLC6-2SC6           SOT-23-6                                                       116.1350   -74.2250  -90.0000  top
+U4           CH340C                SOIC-16_3.9x9.9mm_P1.27mm                                      114.7300   -66.7500   90.0000  top
+U6           LM2596S-3.3           TO-263-5_TabPin3                                               118.2500  -122.5000    0.0000  top
+## End
